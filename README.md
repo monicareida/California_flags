@@ -9,3 +9,4 @@ The inital bot was also trained to recognize when a city seal or a city logo was
 >>>
 It was initially written so the bot tweeted in descending order based on approximate population sizes as of 2018. It could be adjusted to tweet in a different order.
 >>>
+All data in the spreadsheet comes from 2018 estimates from the U.S. Census Bureau.
